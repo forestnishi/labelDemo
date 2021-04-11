@@ -1,0 +1,45 @@
+body {
+    height: 800px;
+    width: 500px;
+    margin: 0;
+    position: static;
+  }
+  h1 {
+    margin: 0;
+    position: static;
+  }
+  #title {
+    margin: 0;
+    position: static;
+    height: 10%;
+  }
+  #order {
+    margin: 0;
+    position: static;
+      height: 10%;
+  }
+  #currentOrder {
+    margin: 0;
+    position: static;
+      height: 90%;
+  }
+  p {
+    background: aqua;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: static;
+  }
+  span {
+    background: red;
+    border: 1px solid black;
+  }
+  .positioned {
+    position: static;
+    background: yellow;
+    top: 150px;
+    left: 0px;
+    margin: 0;
+  }
